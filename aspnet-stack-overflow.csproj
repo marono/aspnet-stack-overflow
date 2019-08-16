@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="System.Text.Json" Version="4.6.0-preview9.19413.13" />
+    <PackageReference Include="System.Text.Encodings.Web" Version="4.6.0-preview9.19413.13" />
+  </ItemGroup>
+
 </Project>
